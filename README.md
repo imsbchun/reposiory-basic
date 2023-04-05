@@ -1,2 +1,2 @@
-# reposiory-basic
+# repository-basic
 test basic repository functions
